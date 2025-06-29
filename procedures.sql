@@ -1,0 +1,1 @@
+contractdoctorSELECT * FROM alekhya.prescription;
